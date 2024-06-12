@@ -74,35 +74,6 @@
         }
         ?> 
        
-
-
-
-
-
-        <!-- <button type="submit" class="btn" onclick="openPopup()">Submit</button>
-
-
-        <div class="popup" id="popup">
-            <img class="gifpop" src="lol1.gif" alt="">
-
-            <h2 id="greet"></h2>
-            <h1>You have successfulli registered in this site.Thanks!</h1>
-
-            <button type="button" class="okbtn" onclick="closePopup()">OK</button>
-        </div>
-        
-        <script>
-            let popup = document.getElementById("popup");
-
-            function openPopup(){
-                popup.classList.add("open-popup");
-                var name = document.getElementById("fname").value;
-                document.getElementById('greet').innerText = 'Congratulations.!  ' + name;
-            }
-            function closePopup(){
-                popup.classList.remove("open-popup");
-            }
-        </script> -->
     </form>
     
 </body>
